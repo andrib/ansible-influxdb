@@ -1,7 +1,7 @@
 galaxy_info:
   author: Andri Burman
   description: Install and configure influxdb
-  company: -
+  company: none
   license: MIT
   min_ansible_version: 2.1
   platforms:
